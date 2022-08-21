@@ -142,6 +142,9 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   .section-btn {
+    display: flex;
+    justify-content: center ;
+    align-items: center ;
     background: #1b3a4f;
     border-radius: 0;
     border: 0;
