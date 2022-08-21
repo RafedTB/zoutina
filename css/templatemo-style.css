@@ -346,6 +346,7 @@ http://www.templatemo.com/tm-515-eatery
     letter-spacing: 2px;
     text-transform: uppercase;
     margin: 0;
+    text-align: center ;
   }
 
   @media (min-width: 768px) {
